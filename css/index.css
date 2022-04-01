@@ -1,0 +1,192 @@
+.backy{
+    background-image: url('../images/background/pexels-scott-webb-1048033.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.smally{
+    background-color: white;
+    border-radius: 12px;
+    border: 1px solid rgb(243, 239, 239);
+    margin-left: 40px;
+    box-shadow: 4px 4px 4px 2.5px rgb(99, 231, 154);
+    margin-top: 7.5px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+}
+
+ion-icon {
+    color: rgb(3, 3, 102);
+  }
+
+.firstSingle{
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.biggy{
+    border-radius: 12px;
+    background-color: white;
+    border: 1px solid rgb(248, 244, 244);
+    margin-left: 20px;
+    box-shadow: 4px 4px 4px 2.5px rgb(67, 226, 138);
+    margin-top: 7.5px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+}
+
+.text-white{
+   margin-top: 20px;
+   margin-left: 20px;
+}
+
+
+ .smallIcons{
+    color:rgb(100, 97, 97);
+ }
+
+
+.btnshape{
+    height: 90px;
+    width: 120px;
+    box-shadow: 2px 2px 2px rgb(87, 104, 109);    
+}
+
+.profileBtn{
+    background-color:rgb(219, 161, 34);
+    color: rgb(73, 73, 73);
+}
+
+.roundShape{
+    justify-content: center;
+    margin: 9px;
+    height: 60px;
+    width: 60px;
+    background-color:rgb(219, 161, 34);
+    border-radius:30px;
+    -webkit-border-radius:30px;
+    -moz-border-radius:30px;
+    -ms-border-radius:30px;
+    -o-border-radius:30px;
+    transform: all 1s;
+    -webkit-transform: all 1s;
+    -moz-transform: all 1s;
+    -ms-transform: all 1s;
+    -o-transform: all 1s;
+}
+
+
+/*fix here*/
+.roundShape:hover{
+    scale: 1.1;
+}
+
+.space{
+    margin-top: 18px;
+}
+
+.roundShapeOther{
+    justify-content: center;
+    margin: 9px;
+    height: 60px;
+    width: 60px;
+    background-color:rgb(223, 223, 223);
+    border-radius:40px;
+    -webkit-border-radius:40px;
+    -moz-border-radius:40px;
+    -ms-border-radius:40px;
+    -o-border-radius:40px;
+}
+
+
+/* Carousel styling */
+ #introCarousel,
+ .carousel-inner,
+ .carousel-item,
+ .carousel-item.active {
+   height: 20vh;
+   opacity: 1;
+   margin-top: 5px;
+ }
+
+ .carousel-item:nth-child(1) {
+   background-image: url('../images/pexels-nataliya-vaitkevich-5554754.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   
+ }
+
+ .miniCards{
+     margin-top: 15px;
+     margin-bottom: 10px;
+     
+ }
+
+ .imageBox{
+     border: 1px solid gold;
+     padding-top: 5px;
+    
+}
+
+ .rate{
+     background-color: white;
+     margin-top: 0.3px;
+     border-radius:10px ;
+     padding-top: 8px;
+     -webkit-border-radius:10px ;
+     -moz-border-radius:10px ;
+     -ms-border-radius:10px ;
+     -o-border-radius:10px ;
+}
+
+.rateOne{
+        height: 425px;
+        background-color: white;
+        margin-top: 0.3px;
+        border-radius:10px ;
+        padding-top: 8px;
+        -webkit-border-radius:10px ;
+        -moz-border-radius:10px ;
+        -ms-border-radius:10px ;
+        -o-border-radius:10px ;
+
+}
+
+.ratedIcons{
+    color: yellow;
+}
+
+.thirdBack{
+    border-radius: 10px;
+    margin-top: 25px;
+    border: 1px solid gainsboro;
+    grid-gap: 20px;
+    background-color: rgb(224, 224, 224);
+    height: fit-content;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.firstChart{
+    margin: 6px;
+    margin-left: 15px;
+}
+
+.secondChart{
+    margin: 6px;
+}
+
+.thirdChart{
+    margin: 6px;
+}
